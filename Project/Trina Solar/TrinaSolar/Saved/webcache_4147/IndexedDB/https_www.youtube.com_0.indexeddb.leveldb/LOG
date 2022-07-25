@@ -1,0 +1,5 @@
+2022/07/25-00:42:29.186 6e58 Reusing MANIFEST E:/Trina-Solar/Project/Trina Solar/TrinaSolar/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/25-00:55:33.591 3008 Level-0 table #5: started
+2022/07/25-00:55:33.594 3008 Level-0 table #5: 7073 bytes OK
+2022/07/25-00:55:33.597 3008 Delete type=0 #3
+2022/07/25-00:55:33.597 3008 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
